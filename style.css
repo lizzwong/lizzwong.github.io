@@ -8,9 +8,9 @@ html, body {
 
 body{
   font-family: cambria;
-   	font-size: 30px;
+   	font-size: 15px;
 	color: rgb (163, 35, 174);
-	border: 0.75rem dashed;
+	border: 5px dashed;
 	
 }
 
