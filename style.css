@@ -10,7 +10,7 @@ body{
   font-family: Times New Roman;
    	font-size: 30px;
 	color: rgb (163, 35, 174);
-	border: 8px dotted;
+	border: 0.75rem dotted;
 	
 }
 
@@ -24,6 +24,7 @@ body{
 .address{
 	text-align: left;
 	font-family: helvetica;
+	font-size: 1.5rem;
 	color: rgb(35, 97, 119);
 }
 
@@ -31,11 +32,11 @@ body{
 	text-align: left;
 	font-family: helvetica;
 	color: #fff;
-	font-size: 25px;
+	font-size: 1rem;
 }
 
 .skincare-lead {
 	text-align: left;
 	font-family: comic-sans;
-	font-size: 18px;
+	font-size: 0.5rem;
 		
