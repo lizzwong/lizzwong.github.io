@@ -9,8 +9,8 @@ html, body {
 body{
   font-family: Times New Roman
    font-size: 30px;
-	color: rgb(78, 35, 119);
-	border: 20px solid #000
+	color: rgb (113, 35, 119);
+	border: 20px solid 
 	
 }
 
@@ -19,8 +19,14 @@ body{
 	font-family: Times New Roman
 	color: rgb(78, 35, 119);
 }
-.address
+.address{
 	text-align: center
 	font-family: helvetica
 	color: rgb(35, 97, 119);
+}
+
+.sephora {
+	text-align: center
+	font-family: helvetica
+	color: #fff
 }
