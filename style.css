@@ -9,14 +9,14 @@ body {
 .page-title {
 	text-align: center;
 	font-family: Times New Roman;
-	font-size: 20px;
+	font-size: 50px;
 	color: rgb(78, 35, 119);
 	
 }
 
 .address{
 	text-align: left;
-	font-family: Veranda;
+	font-family: Courier;
 	font-size: 20px;
 	color: rgb(78, 35, 119);
 }
