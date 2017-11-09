@@ -7,26 +7,33 @@ html, body {
 }
 
 body{
-  font-family: Times New Roman
+  font-family: Times New Roman;
    	font-size: 30px;
 	color: rgb (163, 35, 174);
-	border: 8px dotted
+	border: 8px dotted;
 	
 }
 
 .page-title {
-	text-align: left
-	font-family: Times New Roman
+	text-align: center;
+	font-family: Times New Roman;
 	color: rgb(78, 35, 119);
 }
 .address{
-	text-align: center
-	font-family: helvetica
+	text-align: left;
+	font-family: helvetica;
 	color: rgb(35, 97, 119);
 }
 
 .sephora {
-	text-align: center
-	font-family: helvetica
-	color: #fff
+	text-align: left;
+	font-family: helvetica;
+	color: #fff;
+	font-size: 25pt;
 }
+
+.skincare-lead {
+	text-align: left;
+	font-family: comic-sans;
+	font-size: 18px;
+		
