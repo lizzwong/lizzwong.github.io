@@ -22,20 +22,20 @@ body {
 
 .main{
 	text-align: left;
-	font-family: Georgia;
+	font-family: times;
 	font-size: 15px;
 }
 
 .skincare-lead{
 	text-align: left;
-	font-family: Courier New;
-	font-size: 15px;
+	font-family: times;
+	font-size: 10px;
 }
 	
 .second{
 	text-align: left;
 	font family: Times;
-	font-size: 20pt;
+	font-size: 15pt;
 }
 
 .arts-management-intern{
