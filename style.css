@@ -1,6 +1,5 @@
 p{
 color: red;
-  font-style: Times;
-  font-size: 50px;
-  
-}
+  font-style: Times, helvetica;
+  font-size: 20px;
+  }
