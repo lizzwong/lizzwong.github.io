@@ -1,6 +1,6 @@
 html, body {
   min-height: 100%;
-  display: flex;
+  display: ;
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
@@ -12,3 +12,12 @@ body{
 	color: rgb(78, 35, 119);
 }
 
+.page-title {
+	text-align: right
+	font-family: Times New Roman
+	color: rgb(78, 35, 119);
+	
+.page-description
+	text-align: center
+	font-family: helvetica
+	color: #000
