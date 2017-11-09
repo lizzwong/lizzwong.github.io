@@ -13,11 +13,12 @@ body{
 }
 
 .page-title {
-	text-align: right
+	text-align: left
 	font-family: Times New Roman
 	color: rgb(78, 35, 119);
-	
+}
 .page-description
 	text-align: center
 	font-family: helvetica
 	color: #000
+}
