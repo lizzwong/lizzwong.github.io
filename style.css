@@ -1,9 +1,10 @@
-body{
-  font-family: Courier;
-   	font-size: 15px;
-	
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
 }
-
+	
 .page-title {
 	text-align: center;
 	font-family: Times New Roman;
