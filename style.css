@@ -4,6 +4,11 @@
 	text-align: right;
 	width: 100%;
 }
+.title{
+	font-family: comic-sans;
+	font-size: 40px;
+	color: rgb (35, 97, 119);
+}
 body{
   font-family: Times New Roman
    font-size: 30px;
@@ -13,8 +18,9 @@ color: rgb(78, 35, 119);
   font-family: Times, helvetica;
   font-size: 25px;
   }
-p{
+h2{
   color: #000
   font-family: helvetica;
   font-size: 16px;
 }
+
