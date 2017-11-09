@@ -14,28 +14,28 @@ body{
 	
 }
 
-.page-title {
+page-title {
 	text-align: center;
 	font-family: New York Times;
 	font-size: 35px;
 	color: rgb(78, 35, 119);
 	
 }
-.address{
+address{
 	text-align: left;
 	font-family: helvetica;
 	font-size: 20px;
 	color: rgb(78, 35, 119);
 }
 
-.sephora {
+sephora {
 	text-align: left;
 	font-family: helvetica;
 	color: #fff;
 	font-size: 15px;
 }
 
-.skincare-lead {
+skincare-lead {
 	text-align: left;
 	font-family: comic-sans;
 	font-size: 15px;
