@@ -1,14 +1,14 @@
 .background {
 	font-family: Times, Times New Roman;
 	color: rgb(22, 47, 97);
-	background-image: url("https://i.pinimg.com/originals/df/7f/4c/df7f4c51df5edae3e9bf78fef81f4000.jpg");
+	background-image: url("https://i.pinimg.com/originals/31/50/f5/3150f591bd3b2f74d14c5ac912def38b.jpg");
 	border: 3px solid rgb(31, 107, 126)
 }
 	
 .page-title {
 	text-align: center;
 	font-family: Times New Roman;
-	font-size: 50px;
+	font-size: 65px;
 	color: rgb(22, 47, 97);
 }
 
@@ -22,7 +22,7 @@
 .main {
 	font-family: Times;
 	font-size:20px;
-	text-decoration:italics;
+	text-decoration:italic;
 	margin-left: 30px;
 }
 
@@ -55,7 +55,6 @@ h2 {
 	border-bottom: 2px solid rgb(31, 107, 126)
 	margin-left: 20px;
 	font-size:30px;
-	text-decoration:underline;
 	
 }
 
