@@ -21,22 +21,25 @@
 .sephora {
 	text-align: left;
 	font-family: Times;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgb(28, 70, 134);
+	border-bottom: 2px solid rgb(31, 107, 126)
 }
 	
 .mco {
 	text-align: left;
 	font-family: Times;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgb(28, 70, 134);
+	border-bottom: 2px solid rgb(31, 107, 126)
 }
 
 .dmmo {
 	text-align: left;
 	font-family: Times;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgb(28, 70, 134);
+	border-bottom: 2px solid rgb(31, 107, 126)
 }
 
 h2 {
