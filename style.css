@@ -33,16 +33,15 @@
 	
 .mco{
 	text-align: left;
-	font family: Times;
-	font-size: 15pt;
+	font-family: Times;
+	font-size: 15px;
 	color: rgb(28, 70, 134);
 }
 
 .dmmo{
-	text-align: center;
-	font family: Times;
+	text-align: left;
+	font-family: Times;
 	font-size: 15px;
 	color: rgb(28, 70, 134);
-	
 }
 
