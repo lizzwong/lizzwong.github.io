@@ -1,10 +1,7 @@
 .background {
-	height: 200%;
-	margin: 200%;
-	width: 200%;
+	font-family: Times, Times New Roman;
 	color: rgb(22, 47, 97);
 	background-image: url("https://www.homedepot.com/catalog/productImages/1000/83/83a1d10f-f6c8-4e15-aa08-d41a441fbb88_1000.jpg");
-	background-size: cover
 	border: 3px solid #000
 }
 	
