@@ -31,7 +31,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	text-decoration: underlined;
+	font-style: underline;
 }
 	
 .mco {
@@ -39,7 +39,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	text-deccoration: underlined;
+	font-style: underline;
 }
 
 .dmmo {
@@ -47,7 +47,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	text-decoration: underlined;
+	font-style: underline;
 }
 
 h2 {
@@ -55,6 +55,8 @@ h2 {
 	border-bottom: 2px solid rgb(31, 107, 126)
 	margin-left: 20px;
 	font-size:30px;
+	text-decoration:underline;
+	
 }
 
 h3 { 
