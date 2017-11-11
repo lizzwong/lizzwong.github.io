@@ -1,7 +1,8 @@
 .body {
 	background-image: url("https://st.hzcdn.com/simgs/22e1937e02fd3f25_4-1692/contemporary-wallpaper.jpg");
 	background-size: cover;
-	color: rgb(78, 35, 119)
+	color: rgb(78, 35, 119);
+}
 	
 .header {
 	height: 100%;
