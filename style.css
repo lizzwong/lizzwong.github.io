@@ -19,6 +19,12 @@
 	color: #000;
 }
 
+.main {
+	font-family: Times;
+	font-size:20px;
+	font-style:italics;
+}
+
 .sephora {
 	text-align: left;
 	font-family: Times;
