@@ -38,6 +38,10 @@
 	color: rgb(28, 70, 134);
 }
 
+p{ 
+	padding: 20px;
+}
+
 .dmmo{
 	text-align: left;
 	font-family: Times;
