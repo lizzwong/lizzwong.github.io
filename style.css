@@ -26,6 +26,8 @@
 	font-size:18px;
 	text-decoration:italic;
 	margin-left: 40px;
+	border-bottom: 2px solid rgb(31, 107, 126);
+	margin: 20px;
 }
 
 .sephora {
