@@ -22,7 +22,7 @@
 .main {
 	font-family: Times;
 	font-size:20px;
-	font-style:italics;
+	text-decoration:italics;
 }
 
 .sephora {
@@ -30,7 +30,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	font-style: underlined;
+	text-decoration: underlined;
 }
 	
 .mco {
@@ -38,7 +38,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	font-style: underlined;
+	text-deccoration: underlined;
 }
 
 .dmmo {
@@ -46,7 +46,7 @@
 	font-family: Times;
 	font-size: 35px;
 	color: rgb(28, 70, 134);
-	font-style: underlined;
+	text-decoration: underlined;
 }
 
 h2 {
