@@ -1,8 +1,8 @@
 .background {
-	height: 100%;
-	margin: 0;
-	width: 100%;
-	color: rgb(78, 35, 119);
+	height: 90%;
+	margin: 10%;
+	width: 70%;
+	color: rgb(31, 57, 110);
 	background-image: url("http://images.all-free-download.com/images/graphiclarge/linen_fabric_background_01_hd_picture_169828.jpg");
 	background-size: cover
 }
