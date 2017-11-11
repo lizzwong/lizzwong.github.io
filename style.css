@@ -1,6 +1,6 @@
 .background {
 	font-family: Times, Times New Roman;
-	color: rgb(22, 47, 97);
+	color: rgb(44, 20, 73);
 	background-image: url("https://i.pinimg.com/originals/b3/7a/3f/b37a3f8199410b5601c236d802f85c69.jpg");
 }
 	
@@ -8,7 +8,7 @@
 	text-align: right;
 	font-family: Times New Roman;
 	font-size: 58px;
-	color: rgb(22, 47, 97);
+	color: rgb(44, 20, 73);
 }
 
 .address {
@@ -16,6 +16,8 @@
 	font-family: Times;
 	font-size: 18px;
 	color: #000;
+	border-bottom: 2px solid rgb(31, 107, 126);
+	margin: 20px;
 }
 
 .main {
