@@ -24,7 +24,7 @@
 .main {
 	font-family: Times;
 	font-size:18px;
-	text-decoration:italic;
+	text-decoration:italics;
 	margin-left: 40px;
 	border-bottom: 2px solid rgb(31, 107, 126);
 	margin: 20px;
@@ -74,4 +74,10 @@ ul {
 	margin-bottom: 20px;
 	margin-left: 40px;
 	font-size: 20px;
+}
+
+block-date {
+	text-align:right;
+	font-size: 16px;
+	text-decoration: italics;
 }
